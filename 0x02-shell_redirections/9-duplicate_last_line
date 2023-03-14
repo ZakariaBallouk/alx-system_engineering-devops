@@ -1,2 +1,2 @@
 #!/bin/bash
-ed -s iacta <<< $'14\nco\n.\nw\nq\n'
+tail -1 iacta >> icta
